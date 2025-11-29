@@ -1,3 +1,5 @@
+import icons from 'url:../../img/icons.svg'
+
 class searchView {
   _parentEl = document.querySelector('.search')
 
